@@ -1,0 +1,1 @@
+{"name":"Local: compare","url":"/Users/abdulquaiyum/Desktop/phitron/C/Modules/Module_10_String/compare.c","tests":[{"id":1793354793056,"input":"acm\nacpc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abdulquaiyum/Desktop/phitron/C/Modules/Module_10_String/compare.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: copying_array","url":"/Users/abdulquaiyum/Desktop/phitron/C/Modules/Module_10_String/copying_array.c","tests":[{"id":1793567660907,"input":"4 \n10 20 30 40\n3\n100 200 300","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abdulquaiyum/Desktop/phitron/C/Modules/Module_10_String/copying_array.c","group":"local","local":true}

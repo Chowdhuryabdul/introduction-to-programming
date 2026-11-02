@@ -1,0 +1,1 @@
+{"name":"Local: count_digit","url":"/Users/abdulquaiyum/Desktop/phitron/C/Modules/Module_10_String/count_digit.c","tests":[{"id":1793447294199,"input":"4\n1 2 1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/abdulquaiyum/Desktop/phitron/C/Modules/Module_10_String/count_digit.c","group":"local","local":true}
